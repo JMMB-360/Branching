@@ -20,3 +20,6 @@ public class HolaMundo {
 
 // git checkout "nombre_rama"
 // Cambia a la rama indicada (con -b la crea y se mueve a ella)
+
+// git push --set-upstream origin "nombre_rama"
+// Necesario para subir cosas a github cuando cambiamos de rama
