@@ -24,3 +24,9 @@ public class HolaMundo {
 
 // git push --set-upstream origin "nombre_rama"
 // Necesario para subir cosas a github cuando cambiamos de rama
+
+// git javac nombre_fichero.java
+// esto compila el archivo .java
+
+// git java nombre_archivo.java
+// esto ejecuta el archivo .java compilado
